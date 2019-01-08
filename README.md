@@ -18,7 +18,6 @@ Current build status
 
 [![Linux,OSX](https://img.shields.io/circleci/project/github/conda-forge/pillow-feedstock/master.svg?label=Linux,OSX)](https://circleci.com/gh/conda-forge/pillow-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/pillow-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/pillow-feedstock/branch/master)
-[![linux-aarch64](https://img.shields.io/shippable/5c3421f9c05bae0700d40f42/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/pillow-feedstock)
 
 Current release info
 ====================
